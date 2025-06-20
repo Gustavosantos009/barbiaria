@@ -84,6 +84,7 @@ header {
         display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
+        gap: 10px;
 
 
         & div {
@@ -102,7 +103,7 @@ header {
 
             & img {
 
-                width: 250px;
+                width: 270px;
                 border-radius: 15px;
             }
 
